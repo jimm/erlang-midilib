@@ -1,0 +1,14 @@
+= Erlang MIDI Library
+
+== midifile
+
+Reads and writes type 1 MIDI files.
+
+== midilib
+
+Utility functions for handling note lengths, beats, quantization, and note
+names.
+
+== core_midi
+
+An experiment in communication with the Mac OS X Core MIDI framework.
