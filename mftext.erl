@@ -1,6 +1,6 @@
 -module(mftext).
 -export([seq_to_text/1, seq_to_text/2, track_to_text/1, track_to_text/2, event_to_text/1, event_to_text/2]).
--author("Jim Menard, jimm@io.com").
+-author("Jim Menard, jim@jimmenard.com").
 
 seq_to_text(Seq) ->
     seq_to_text(Seq, false).

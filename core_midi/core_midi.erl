@@ -1,5 +1,5 @@
 -module(core_midi).
--author("Jim Menard, jimm@io.com").
+-author("Jim Menard, jim@jimmenard.com").
 -include("core_midi.hrl").
 -export([start/0, stop/0]).
 -export([num_destinations/0, num_sources/0, num_devices/0, num_external_devices/0]).

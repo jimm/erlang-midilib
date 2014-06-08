@@ -1,5 +1,5 @@
 -module(midilib).
--author("Jim Menard, jimm@io.com").
+-author("Jim Menard, jim@jimmenard.com").
 -export([note_names/0, note_length/1, bpm_to_mpq/1, mpq_to_bpm/1, quantize/2,
 	 note_to_string/1]).
 

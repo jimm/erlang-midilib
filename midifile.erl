@@ -1,6 +1,6 @@
 -module(midifile).
 -export([read/1, write/2]).
--author("Jim Menard, jimm@io.com").
+-author("Jim Menard, jim@jimmenard.com").
 -include("midi_consts.hrl").
 
 %% This module reads and writes MIDI files.
