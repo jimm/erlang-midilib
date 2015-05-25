@@ -1,0 +1,4 @@
+core_midi
+*.beam
+core_midi.hrl
+void_size*

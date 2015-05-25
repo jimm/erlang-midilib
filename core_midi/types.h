@@ -4,4 +4,4 @@
 typedef unsigned char byte;
 typedef void *ref;
 
-#endif TYPES_H
+#endif /* TYPES_H */
